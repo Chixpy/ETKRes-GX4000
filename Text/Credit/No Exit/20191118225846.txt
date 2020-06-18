@@ -1,0 +1,8 @@
+Programmer
+  Daniel Mike Polydore
+
+Graphics
+  Joseph Kluytmans
+
+Sound
+  Frédéric Motte, Vincent Barat
