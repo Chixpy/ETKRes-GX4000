@@ -5,19 +5,29 @@ Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chi
 
 ## About Images
 
-Official resolutions (without border): 160x200, 320x200 and 640x200. Seem that all oficcial games use 320x200, and with the border the screenshots are 384X270; so the correct way to correct the aspect ratio without losing data is upscaling width*5 and height*6.
+### Screenshot, Titles
 
-### About Icons
+Rule #1: No filters to screenshots.
+
+All images in .png format at original resolution. It's same as Amstrad CPC, but less software. See: https://github.com/Chixpy/ETKRes-CPC
+
+All software seems to fit well at *384×272* with borders.
+
+### Front, Back, Spine, Ads, Reviews, Media, Other
+
+Escaned .jpg; with a maximum of 2048x2048, don't enlarge artificially (if larger, we can resize it to 2048 the larger side, keeping aspect ratio and a quality of 90%). Trying not to do transformations and resave it. Lossless rotation or cropping allowed.
+
+### Icons, Logos
+
+Rule #1: Only 1 image for group or game. No folders with multiple images.
 
 Icons are mainly extracted from game screenshots at original resolution. Usually they are protagonist frames or lives icons (if they are similar to protagonist).
 
-All icon images are in .png format. Width and Height are variable, using it's original size without resizing to a fixed size or adding more border to make it square. Emuteca handle they automatically.
+All images are .png format. Width and Height are variable, using it's original size without resizing to a fixed size or adding more border to make it square. Emuteca handle they automatically.
 
 The only time that the image will be scaled is when all 'icon pixels' are 2x2, 3x3, etc. pixels.
 
-After extracting the icon image with transparent background, a border is added: Middle grey, half transparency (128, 128, 128, 128). Emuteca have a GIMP's script in its distribution, that can add the border automatically after transparent background is created.
-
-Of course, same problem about images aspect ratio is present here.
+After extracting the icon image with transparent background, a border is added: Middle grey, half transparency (128, 128, 128, 128). Emuteca has a GIMP's script in its distribution, that can add the border automatically after transparent background is created.
 
 Download
 --------
