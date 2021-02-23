@@ -3,6 +3,13 @@ Resources for Emuteca: Amstrad GX4000
 
 Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chixpy/Emuteca).
 
+Download
+--------
+
+Use GIT to clone the repository or download it in zip:
+
+https://github.com/Chixpy/ETKRes-GX4000/archive/master.zip
+
 ## About Images
 
 ### Screenshot, Titles
@@ -11,7 +18,7 @@ Rule #1: No filters to screenshots.
 
 All images in .png format at original resolution. It's same as Amstrad CPC, but less software. See: https://github.com/Chixpy/ETKRes-CPC
 
-All software seems to fit well at *384×272* with borders.
+All software seems to fit well at *384×272* with borders; although for Mode 2 screenshots may be used 768x544.
 
 ### Front, Back, Spine, Ads, Reviews, Media, Other
 
@@ -35,9 +42,11 @@ After extracting the icon image with transparent background, a border is added: 
 
 Altenatively, there is a GIMP's script too, that can add the border automatically after transparent background is created. But it's slooooow.
 
-Download
---------
+## About Texts
 
-Use GIT to clone the repository or download it in zip:
+Raw text .txt.
 
-https://github.com/Chixpy/ETKRes-GX4000/archive/master.zip
+Better if:
+
+  * Empty line between paragraphs.
+  * No new line inside paragraphs (Textbox has wordwrap activated).
