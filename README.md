@@ -18,7 +18,7 @@ Rule #1: No filters to screenshots.
 
 All images in .png format at original resolution. It's same as Amstrad CPC, but less software. See: https://github.com/Chixpy/ETKRes-CPC
 
-All software seems to fit well at *384×272* with borders; although for Mode 2 screenshots may be used 768x544.
+All software seems to fit well at *384×272* with borders; although for Mode 2 screenshots a resolution of *768x544* may be used.
 
 ### Front, Back, Spine, Ads, Reviews, Media, Other
 
