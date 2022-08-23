@@ -12,6 +12,8 @@ https://github.com/Chixpy/ETKRes-GX4000/archive/master.zip
 
 ## About Images
 
+You can read more about media files in [Emuteca's Web Page](https://chixpy.github.io/Emuteca/pages/Media-Files.html) (but it's in spanish...)
+
 ### Screenshot, Titles
 
 Rule #1: No filters to screenshots.
@@ -41,7 +43,7 @@ For Magazine texts:
 For Maps (or magazine game guides):
 
   * If it's a magazine game guide: Same as Magazine texts.
-  * If it's a digital map (made of screenshot or similar): Better .png and keep as is (do not remove author, or other info; and if it's bigger than 2048px too)
+  * If it's a digital map (made with screenshots or similar): Better in .png format and keep as is (do not remove author, or other info; and if it's bigger than 2048px keep the size too).
 
 ### Icons, Logos
 
@@ -59,7 +61,7 @@ After extracting the icon image with transparent background, a border is added: 
 
 [Emuteca](https://github.com/chixpy/emuteca) has [ETKIconBorder](https://github.com/Chixpy/Emuteca/blob/master/bin/Tools/ETKIconBorder.exe) tool in its distribution. A simple image editor to cut, extract, make transparency in images and apply filters to original image.
 
-Altenatively, there is a GIMP's script too, that can add the border automatically after transparent background is created. But it's slooooow.
+Alternatively, there is a [GIMP's script](https://github.com/Chixpy/Emuteca/tree/master/bin/Tools/Icon%20Border%20Gimp%20script) too, that can add the border automatically after transparent background is created. But it's slooooow.
 
 ## About Texts
 
